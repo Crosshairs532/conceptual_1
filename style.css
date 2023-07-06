@@ -2,3 +2,18 @@
     color: red;
     cursor: url('https://www.google.com/search?q=emogi&rlz=1C5CHFA_enBD1041BD1059&sxsrf=AB5stBioXW1-VirLIVZp-J0RVjB52S5YSg:1688655509805&tbm=isch&source=iu&ictx=1&vet=1&fir=iWHM83oBap5UDM%252CvCF8Ph8K8-It9M%252C%252Fm%252F02kb4w%253BhgdRBNRugEiCJM%252CLsudAesVE6tKdM%252C_%253BXAb58rO-zODbqM%252CNnIsBe8KsldGKM%252C_%253B9tq95mf0TNRhHM%252C_c0ie_MkywzmnM%252C_%253BSdE753QCR3pATM%252CTgwbJxjNmlvWvM%252C_&usg=AI4_-kRyjdfYnn5-3ua5l4lvZDJBXPcz6A&sa=X&ved=2ahUKEwj74rz-q_r_AhW-SWwGHT5tAv4Q_B16BAhaEAE#imgrc=iWHM83oBap5UDM'), auto;
 }
+
+.box {
+    padding: 30px;
+    border: 2px solid red;
+    width: 40px;
+    /* display: inline-block; */
+
+}
+
+.container {
+    display: flex;
+    /* justify-content: center; */
+    /* flex-direction: column; */
+    align-items: center;
+}
